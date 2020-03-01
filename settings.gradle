@@ -1,0 +1,5 @@
+rootProject.name = 'microservice'
+
+include 'discovery'
+include 'api'
+include 'gateway'
